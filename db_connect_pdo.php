@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$dbname = 'database_it67';
-$user = 'root';
-$pass = '';
+$dbname = 'it67040233119';
+$user = 'it67040233119';
+$pass = 'M1Q8L9N6';
 $charset = 'utf8';
 
 try {

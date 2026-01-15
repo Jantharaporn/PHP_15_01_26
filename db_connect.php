@@ -1,8 +1,8 @@
 <?php
     $host = 'localhost';          //ชื่อโฮสต์
-    $db = 'root';                 //ชื่อผู้ใช้ฐานข้อมูล
-    $pass = '';                   //รหัสผ่านฐานข้อมูล
-    $dbname = 'database_it67';    //ชื่อฐานข้อมูล
+    $db = 'it67040233119';                 //ชื่อผู้ใช้ฐานข้อมูล
+    $pass = 'M1Q8L9N6';                   //รหัสผ่านฐานข้อมูล
+    $dbname = 'it67040233119';    //ชื่อฐานข้อมูล
 
     $conn =new mysqli($host, $db, $pass, $dbname);
     mysqli_set_charset($conn, "utf8");
